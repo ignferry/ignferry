@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm currently an undergraduate student at STEI ITB.
+Although I don't have much experience, I am very excited to learn programming.
+In the future, I would like to learn about android application development, software engineering, machine learning, and artificial intelligence.
+
+How to reach me:
+LinkedIn   -> https://www.linkedin.com/in/ignasius-ferry-priguna-24626b1ba/
+HackerRank -> @ignasiusf
 
 <!--
 **ignferry/ignferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
